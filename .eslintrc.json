@@ -18,7 +18,13 @@
               }
             ]
           }
-        ]
+        ],
+        "no-unused-vars": "error",
+        "no-empty-function": "error",
+        "no-console": "warn",
+        "no-await-in-loop": "error",
+        "no-mixed-spaces-and-tabs": "error",
+        "no-use-before-define": "error"
       }
     },
     {
